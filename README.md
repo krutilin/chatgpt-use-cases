@@ -7,6 +7,15 @@
 - [API and Library Exploration](developers.md#api-and-library-exploration)
 - [Learning and Skill Development](developers.md#learning-and-skill-development)
 
+## DevOps
+
+- [Infrastructure and Configuration Management](devops.md#infrastructure-and-configuration-management)
+- [Continuous Integration and Deployment](devops.md#continuous-integration-and-deployment)
+- [Monitoring and Logging](devops.md#monitoring-and-logging)
+- [Incident Management and Response](devops.md#incident-management-and-response)
+- [Security and Compliance](devops.md#security-and-compliance)
+- [Collaboration and Knowledge Sharing](devops.md#collaboration-and-knowledge-sharing)
+
 ## QA
 
 - [Test Planning and Design](qa.md#test-planning-and-design)
