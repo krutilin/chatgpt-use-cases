@@ -1,9 +1,3 @@
-# Call for Contributions
-
-👋 We value your contributions, feedback and suggestions. Please feel free to create a pull request or open an issue.
-
-**Note**: Only add ideas or use cases that are related to ChatGPT.
-
 ## Developers
 
 - [Code Review and Assistance](developers.md#code-review-and-assistance)
@@ -57,3 +51,9 @@
 ## Other
 
 - [For Educators and Students](students.md#for-educators-and-students)
+
+# Call for Contributions
+
+👋 We value your contributions, feedback and suggestions. Please feel free to create a pull request or open an issue.
+
+**Note**: Only add ideas or use cases that are related to ChatGPT.
